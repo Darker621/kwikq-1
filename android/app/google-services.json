@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "433664923866",
+    "firebase_url": "https://college-pro-82349-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "college-pro-82349",
+    "storage_bucket": "college-pro-82349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433664923866:android:6723d30dab964ffaacade3",
+        "android_client_info": {
+          "package_name": "com.example.kwikq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDKr0hJ4gjzSR74Ke51b2JDyvRA9HNJx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
